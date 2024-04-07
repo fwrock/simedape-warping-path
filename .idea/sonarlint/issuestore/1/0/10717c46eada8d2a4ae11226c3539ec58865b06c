@@ -1,0 +1,6 @@
+
+m	java:S106."+Replace this use of System.out by a logger.(œˆßë8¬ÄÀ¾è1J$e22fc748-c3c9-4144-a4b6-5b09a3e22316
+m	java:S1061"+Replace this use of System.out by a logger.(ĞÃù†8˜ğÀ¾è1J$bda12db5-15c2-46f9-92a8-85901c06eeea
+r	java:S1062"+Replace this use of System.out by a logger.(“›¡Ÿúÿÿÿÿ8‰³Á¾è1J$68312a38-bbad-4e7f-8e73-7d37fc683dc0
+s
+java:S18746"0Remove this use of "schedule"; it is deprecated.(ÑÊ’8¿µ–¾è1J$660595e1-f11b-4195-9e14-2a7e77149212
