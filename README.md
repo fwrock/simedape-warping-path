@@ -1,8 +1,6 @@
-# simedape-wp-calc-actor-model
+# SimEDaPE - Warping Path Calculation
 
-# SimEDaPE-Akka
-
-🚀 **SimEDaPE-Akka** is a high-performance implementation of the **Simulation Estimation by Data Patterns Exploration (SimEDaPE)** technique using the **actor model** with the **Akka framework**, written in **Java 21**. This version was designed to significantly reduce the execution time of SimEDaPE’s most time-consuming step: the *Warping Path* calculation using Dynamic Time Warping (DTW).
+🚀 **SimEDaPE - Warping Path Calculation** is a high-performance implementation of the **Simulation Estimation by Data Patterns Exploration (SimEDaPE)** technique using the **actor model** with the **Akka framework**, written in **Java 21**. This version was designed to significantly reduce the execution time of SimEDaPE’s most time-consuming step: the *Warping Path* calculation using Dynamic Time Warping (DTW).
 
 ## 📋 Overview
 
